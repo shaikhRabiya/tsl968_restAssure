@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3395" started-at="2021-11-09T12:02:44Z" finished-at="2021-11-09T12:02:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3395" started-at="2021-11-09T12:02:44Z" finished-at="2021-11-09T12:02:48Z">
+      <class name="day1.GitHubExample">
+        <test-method status="PASS" signature="addRepository()[pri:0, instance:day1.GitHubExample@275710fc]" name="addRepository" duration-ms="3376" started-at="2021-11-09T12:02:44Z" description="Adding repositories" finished-at="2021-11-09T12:02:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addRepository -->
+      </class> <!-- day1.GitHubExample -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
